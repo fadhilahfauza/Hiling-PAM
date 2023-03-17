@@ -25,10 +25,15 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": ""
+      "package": "com.fadhilahfh.Fadhilah"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "077fa9ec-efc4-4620-8f84-c8d5ce4f01d2"
+      }
     }
   }
 }
